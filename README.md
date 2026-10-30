@@ -11,6 +11,9 @@ Students: Lebeko Surprise Shai 226059354
 
 Module: Information Systems 1.2
 
+GITHUB LINK
+https://github.com/Bekza07/Library-Management-System.git
+
 
 
 
